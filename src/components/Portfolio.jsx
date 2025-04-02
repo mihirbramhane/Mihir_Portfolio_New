@@ -62,8 +62,8 @@ const Portfolio = () => {
       <div className="section">
         <h2>Publications</h2>
         <ul>
-          <li>Data Analysis - IJSREM </li>
-          <li>Emotion Based Music Recommendation System - TIJER </li>
+          <li>Data Analysis</li>
+          <li>Emotion Based Music Recommendation System</li>
         </ul>
         <h3>Certificates</h3>
         <div className="certificate-links">
