@@ -86,7 +86,7 @@ const Portfolio = () => {
       <div className="links">
         <a href="https://github.com/mihirbramhane" target="_blank" className="link-btn">GitHub</a>
         <a href="https://www.linkedin.com/in/mihir-bramhane-15678921b/" target="_blank" className="link-btn">LinkedIn</a>
-        <a href="https://drive.google.com/file/d/1mCDARvdVy1MH6Bsz-2fpG3aWtcCSWunc/view?usp=sharing" target="_blank" className="link-btn">Resume</a>
+        <a href="https://drive.google.com/file/d/1dzngpTcErkJW_mw3hFb1QI4ha7SgBeAM/view?usp=drive_link" target="_blank" className="link-btn">Resume</a>
      
 
       </div>
