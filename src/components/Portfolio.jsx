@@ -24,7 +24,7 @@ const Portfolio = () => {
       <div className="section">
         <h2>Education</h2>
         <ul>
-          <li><strong>M.Tech - IoT (VJTI, Mumbai)</strong> - PURSUING </li>
+          <li><strong>M.Tech - IoT (VJTI, Mumbai)</strong> - PURSUING - FY(9.19 CGPA)</li>
           <li><strong>B.E - AI & Data Science (SPPU)</strong> - 9.34 CGPA </li>
           <li><strong>HSC (Maharashtra Board)</strong> - 76%</li>
           <li><strong>SSC (Maharashtra Board)</strong> - 89.40%</li>
@@ -34,6 +34,7 @@ const Portfolio = () => {
       <div className="section">
         <h2>Experience</h2>
         <ul>
+          <l1>BlueStar Ltd - Innovation Center - R&D(AI/ML) IN HVAC</l1>
           <li>Technoedge Learning Services - Data Analyst</li>
           <li>NSDIC - Power BI Intern</li>
           <li>CodeClause - AI Intern</li>
@@ -49,6 +50,7 @@ const Portfolio = () => {
           <li>Automotive Pricing Model (Data Analysis)</li>
           <li>Hand Gesture Recognition System</li>
           <li>Lead Score Analysis</li>
+          <l1>JobGenie - Agentic AI - Cover Letter Maker</l1>
         </ul>
       </div>
       
@@ -86,7 +88,7 @@ const Portfolio = () => {
       <div className="links">
         <a href="https://github.com/mihirbramhane" target="_blank" className="link-btn">GitHub</a>
         <a href="https://www.linkedin.com/in/mihir-bramhane-15678921b/" target="_blank" className="link-btn">LinkedIn</a>
-        <a href="https://drive.google.com/file/d/1dzngpTcErkJW_mw3hFb1QI4ha7SgBeAM/view?usp=drive_link" target="_blank" className="link-btn">Resume</a>
+        <a href="https://drive.google.com/file/d/1ppfTKty_Q0IZGoaoa01LULIw-r-7FBHH/view?usp=drive_link" target="_blank" className="link-btn">Resume</a>
      
 
       </div>
